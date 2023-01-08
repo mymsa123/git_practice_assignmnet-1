@@ -7,5 +7,5 @@ count++;
 }
 if(count==2){
 console.log("Prime number");}
-else
+else {
 console.log("Not a prime number");}
